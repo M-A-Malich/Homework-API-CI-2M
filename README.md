@@ -1,3 +1,4 @@
+# Project Sample [![Build status](https://ci.appveyor.com/api/projects/status/1q2p93b940qdu0lp?svg=true)](https://ci.appveyor.com/project/Marina/homework-api-ci-2m)
 # aqa-code
 Код с лекций Автоматизация тестирования
 
